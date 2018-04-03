@@ -13,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="167" column="68" lean-forward="false" selection-start-line="167" selection-start-column="68" selection-end-line="167" selection-end-column="68" />
+            <state relative-caret-position="449">
+              <caret line="85" column="250" lean-forward="false" selection-start-line="85" selection-start-column="250" selection-end-line="85" selection-end-column="250" />
               <folding />
             </state>
           </provider>
@@ -48,7 +48,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="333" />
+    <option name="x" value="268" />
     <option name="y" value="23" />
     <option name="width" value="1083" />
     <option name="height" value="823" />
@@ -68,6 +68,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,10 +88,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,15 +206,16 @@
       <updated>1522529436709</updated>
       <workItem from="1522529438024" duration="1144000" />
       <workItem from="1522530671718" duration="67000" />
-      <workItem from="1522539505541" duration="196000" />
+      <workItem from="1522539505541" duration="248000" />
+      <workItem from="1522718669343" duration="74000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1407000" />
+    <option name="totallyTimeSpent" value="1533000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="333" y="23" width="1083" height="823" extended-state="0" />
+    <frame x="268" y="23" width="1083" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -274,8 +275,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="167" column="68" lean-forward="false" selection-start-line="167" selection-start-column="68" selection-end-line="167" selection-end-column="68" />
+        <state relative-caret-position="449">
+          <caret line="85" column="250" lean-forward="false" selection-start-line="85" selection-start-column="250" selection-end-line="85" selection-end-column="250" />
           <folding />
         </state>
       </provider>
